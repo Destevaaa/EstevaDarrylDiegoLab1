@@ -14,7 +14,7 @@
             android:id="@+id/imageView2"
             android:layout_width="420dp"
             android:layout_height="280dp"
-            app:srcCompat="@drawable/JW_CAFE" />
+            app:srcCompat="@drawable/jwcafe" />
 
         <TextView
             android:id="@+id/textView3"
@@ -36,7 +36,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Location: JW Marriott Hotel (Level 5) Pacific Place,, 88 Queensway, Hong Kong"
+                android:text="Location: JW Marriott Hotel (Level 5) Pacific Place, 88 Queensway, Hong Kong"
                 android:textSize="20sp" />
 
         </LinearLayout>

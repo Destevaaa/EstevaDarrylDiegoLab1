@@ -8,6 +8,6 @@ public class Activity2_Esteva extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_activity2__esteva);
+        setContentView(R.layout.linear_layout);
     }
 }
